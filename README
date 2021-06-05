@@ -1,0 +1,10 @@
+# Este es mi primer proyecto en NODE
+
+Opciones:
+      --help     Muestra ayuda                                        [booleano]
+      --version  Muestra número de versión                            [booleano]
+  -b, --base     Representa la base de la tabla             [número] [requerido]
+  -l, --listar   Indica si la tabla se visualiza por pantalla
+                                                    [requerido] [defecto: false]
+  -h, --hasta    Indica hasta que número voy a multiplicar  [número] [requerido]
+
